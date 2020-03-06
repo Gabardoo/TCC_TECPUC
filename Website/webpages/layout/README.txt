@@ -1,0 +1,1 @@
+Aqui vai as partes fixas do layout (incluí-las com o comando "include" do PHP). 
