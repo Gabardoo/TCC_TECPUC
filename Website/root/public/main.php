@@ -52,7 +52,7 @@
 
           <div class="square" style="width: 30%">
           <img src="\public\assets\img\venda.jpg" class="imgresp" height="170" width="500">
-             <div class="sq-content">Seja um fidelizado.</div>
+             <div class="sq-content">faça um bom negócio!</div>
           </div>
           <hr>
 		<!-- Arquivos JS -->

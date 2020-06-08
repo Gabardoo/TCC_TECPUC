@@ -1,3 +1,6 @@
 ˇlocalhost                                                                                                                                                                           root                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       Q›èœ2020-05-07 19:24:02 2464 [Note] Event Scheduler: Loaded 0 events
 2020-05-07 19:24:02 2464 [Note] C:\Users\andre\Documents\Projetos\Atividades\SistemaControlePedidos\Website/mysql/bin/mysqld_usbwv8.exe: ready for connections.
 Version: '5.6.13'  socket: ''  port: 3306  MySQL Community Server (GPL)
+2020-06-03 22:57:05 9836 [Note] Event Scheduler: Loaded 0 events
+2020-06-03 22:57:06 9836 [Note] C:\Users\andre\Documents\Projetos\Atividades\Keyar\Website/mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.6.13'  socket: ''  port: 3306  MySQL Community Server (GPL)

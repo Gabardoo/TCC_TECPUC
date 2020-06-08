@@ -15,9 +15,9 @@ trait GerenciadorConexaoBD {
     public function __construct() {
         $this->tipoBancoDados = "mysql";
         $this->host = "localhost";
-        $this->nomeBancoDados = "u208484937_keyar";
-        $this->usuario = "u208484937_keyar";
-        $this->senha_banco = "keyar_keyar@123";
+        $this->nomeBancoDados = "sistemacontrolepedidos";
+        $this->usuario = "root";
+        $this->senha_banco = "usbw";
 
         // montando string com os parametros da conexao
         $parametros = "{$this->tipoBancoDados}:host={$this->host};dbname={$this->nomeBancoDados}";

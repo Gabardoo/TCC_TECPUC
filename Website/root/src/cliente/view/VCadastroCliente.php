@@ -82,57 +82,57 @@
                         }
                     ?>
                     <div class="wrap-input100 validate-input m-b-20" data-validate="nomeusuario">
-                        <input class="input100" type="text" name="login" placeholder="Login">
+                        <input class="input100" type="text" name="login" placeholder="Login" value="<?php echo isset($_POST["login"])? $_POST["login"] : "" ?>">
                         <span class="focus-input100"></span>
                     </div>
 
                     <div class="wrap-input100 validate-input m-b-20" data-validate="senha">
-                        <input class="input100" type="text" name="senha" placeholder="Senha">
+                        <input class="input100" type="text" name="senha" placeholder="Senha" value="<?php echo isset($_POST["senha"])? $_POST["senha"] : "" ?>">
                         <span class="focus-input100"></span>
                     </div>
 
                     <div class="wrap-input100 validate-input m-b-20" data-validate="nome">
-                        <input class="input100" type="text" name="nome" placeholder="Nome">
+                        <input class="input100" type="text" name="nome" placeholder="Nome" value="<?php echo isset($_POST["nome"])? $_POST["nome"] : "" ?>">
                         <span class="focus-input100"></span>
                     </div>
 
                     <div class="wrap-input100 validate-input m-b-20" data-validate="sobrenome">
-                        <input class="input100" type="text" name="sobrenome" placeholder="Sobrenome">
+                        <input class="input100" type="text" name="sobrenome" placeholder="Sobrenome" value="<?php echo isset($_POST["sobrenome"])? $_POST["sobrenome"] : "" ?>">
                         <span class="focus-input100"></span>
                     </div>
 
                     <div class="wrap-input100 validate-input m-b-25" data-validate="cpf">
-                        <input class="input100" type="text" name="cpf" placeholder="CPF">
+                        <input class="input100" type="text" name="cpf" placeholder="CPF" value="<?php echo isset($_POST["cpf"])? $_POST["cpf"] : "" ?>">
                         <span class="focus-input100"></span>
                     </div>
 
                     <div class="wrap-input100 validate-input m-b-20" data-validate="telefone">
-                        <input class="input100" type="text" name="telefone" placeholder="Telefone">
+                        <input class="input100" type="text" name="telefone" placeholder="Telefone" value="<?php echo isset($_POST["telefone"])? $_POST["telefone"] : "" ?>">
                         <span class="focus-input100"></span>
                     </div>
 
                     <div class="wrap-input100 validate-input m-b-20" data-validate="e-mail">
-                        <input class="input100" type="text" name="email" placeholder="E-mail">
+                        <input class="input100" type="text" name="email" placeholder="E-mail" value="<?php echo isset($_POST["email"])? $_POST["email"] : "" ?>">
                         <span class="focus-input100"></span>
                     </div>
 
                     <div class="wrap-input100 validate-input m-b-20" data-validate="cep">
-                        <input class="input100" type="text" name="cep" placeholder="CEP">
+                        <input class="input100" type="text" name="cep" placeholder="CEP" value="<?php echo isset($_POST["cep"])? $_POST["cep"] : "" ?>">
                         <span class="focus-input100"></span>
                     </div>
 
                     <div class="wrap-input100 validate-input m-b-20" data-validate="logradouro">
-                        <input class="input100" type="text" name="logradouro" placeholder="Logradouro">
+                        <input class="input100" type="text" name="logradouro" placeholder="Logradouro" value="<?php echo isset($_POST["logradouro"])? $_POST["logradouro"] : "" ?>">
                         <span class="focus-input100"></span>
                     </div>
 
                     <div class="wrap-input100 validate-input m-b-25" data-validate="numero">
-                        <input class="input100" type="text" name="numero" placeholder="Número">
+                        <input class="input100" type="text" name="numero" placeholder="Número" value="<?php echo isset($_POST["numero"])? $_POST["numero"] : "" ?>">
                         <span class="focus-input100"></span>
                     </div>
 
                     <div class="wrap-input100 validate-input m-b-20" data-validate="complemento">
-                        <input class="input100" type="text" name="complemento" placeholder="Complemento">
+                        <input class="input100" type="text" name="complemento" placeholder="Complemento" value="<?php echo isset($_POST["complemento"])? $_POST["complemento"] : "" ?>">
                         <span class="focus-input100"></span>
                     </div>
 
