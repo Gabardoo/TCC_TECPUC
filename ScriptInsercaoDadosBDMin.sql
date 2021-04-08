@@ -18,12 +18,12 @@ insert into categoria values (2, "Doces");
 insert into categoria values (3, "Bebidas");
 
 # Usuarios do Perfil Balconista
-insert into usuario values (1, "admin", "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4", 2);
+insert into usuario values (1, "admin", "$2y$04$jcWOI/JnrtKE1uLsl0HjzO4YG0gFcuFVOxBdLkSR/nGYZo2raHnbC", 2);
 
 # Usuarios do Perfil Cliente
-insert into usuario values (2, "jgabardo", "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4", 1);
-insert into usuario values (3, "asantos", "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4", 1);
-insert into usuario values (4, "gdouglas", "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4", 1);
+insert into usuario values (2, "jgabardo", "$2y$04$LeD9YApp6zyuc4wksLTeeOdLqKlvLlE9zaiXbt.Tm4sVjFgkU5/mW", 1);
+insert into usuario values (3, "asantos", "$2y$04$2yLvggfdpMgFRJLnw55GH.2jElhG/JbuiSS70tKsHHJAvgMD4Yrt.", 1);
+insert into usuario values (4, "gdouglas", "$2y$04$tamTVg7rSWWLyRMfYu.ll.OEjMc8kkgOb2PHNpMhxgPnc1ullWvue", 1);
 
 # Clientes
 INSERT INTO `sistemacontrolepedidos`.`cliente` (`idCliente`, `cpf`, `nome`, `sobrenome`, `email`, `telefone`, `cep`, `logradouro`, `numero`, `complemento`, `idUsuario`) VALUES ('1', '123456789-01', 'André Felipe', 'Pereira dos Santos', 'andre.p@tecpuc.com.br', '4133333333', '12345678', 'Rua Iapo', '111', 'Casa', '3');

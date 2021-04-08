@@ -123,7 +123,7 @@ ENGINE = InnoDB;
 CREATE TABLE IF NOT EXISTS `SistemaControlePedidos`.`Item` (
   `idItem` INT NOT NULL AUTO_INCREMENT,
   `nome` VARCHAR(45) NULL,
-  `preco` FLOAT NULL,
+  `preco` DECIMAL(10, 2) NULL,
   `quantidade` INT NULL,
   `idCategoria` INT NOT NULL,
   PRIMARY KEY (`idItem`),
