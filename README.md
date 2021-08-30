@@ -1,17 +1,17 @@
-# Sistema de Controle de Pedidos
+# Order Control System
 
-Trabalho de conclusão de curso do TECPUC.
+TECPUC course completion work.
 
-## Autores
+## Authors
 
 - André Felipe Pereira dos Santos
 - Guilherme Douglas Beitum
 - João Gabardo da Cunha
 
-## Descrição
+## Description
 
-Este repositório possui:
+This repository has:
 
-- O código-fonte do sistema desenvolvido, utilizando as seguintes tecnologias: HTML5, CSS3, JavaScript e PHP.
-- Os scripts de criação e inserção de registros básicos do banco de dados MySQL.
-- O código-fonte do aplicativo, que possui uma WebView para acesso ao website responsivo.
+- The source code of the developed system, using the following technologies: HTML5, CSS3, JavaScript and PHP.
+- SQL scripts for MySQL database creation, used by the developed system.
+- The source code of the application, which has a WebView for accessing the responsive website.
