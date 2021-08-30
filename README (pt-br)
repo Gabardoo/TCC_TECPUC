@@ -13,5 +13,5 @@ Trabalho de conclusão de curso do TECPUC.
 Este repositório possui:
 
 - O código-fonte do sistema desenvolvido, utilizando as seguintes tecnologias: HTML5, CSS3, JavaScript e PHP.
-- Os scripts de criação e inserção de registros básicos do banco de dados MySQL.
+- Os scripts SQL de criação do banco de dados MySQL usado pelo sistema desenvolvido.
 - O código-fonte do aplicativo, que possui uma WebView para acesso ao website responsivo.
